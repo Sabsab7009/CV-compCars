@@ -52,3 +52,8 @@ All classification models follow the same 2-stage curriculum:
 - Cosine or step LR schedule
 - Training split into chunks for long runs
 
+## Full Documentation
+
+Complete thesis with methodology, results, and evaluation: 
+See `reports/Traffic_Carbon_Footprint_Thesis.pdf`
+
